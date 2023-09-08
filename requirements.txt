@@ -1,0 +1,6 @@
+string
+secrets
+pyperclip
+tkinter
+pwnedpasswords
+customtkinter
