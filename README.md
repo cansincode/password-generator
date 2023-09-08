@@ -25,7 +25,7 @@ $ python3 main.py
 ## Windows
 #### Download repository:
 <img src="https://www.imgbly.com/ib/dPfpDpHzFL.png"><br>
-> unzip it and open file<br>
-> open main.cmd<br>
-> after installation finish, close terminal<br>
-> open main.py
++ unzip it and open file<br>
++ open main.cmd<br>
++ after installation finish, close terminal<br>
++ open main.py
