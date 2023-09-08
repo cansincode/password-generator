@@ -21,11 +21,9 @@ Bottom entry is password input you can write your password for check leaks. Your
 $ git clone https://github.com/cansincode/password-generator<br>
 $ cd password-generator<br>
 $ pip3 install -r requirements<br>
-$ python3 main.py
+$ python3.10 main.py
 ## Windows
 #### Download repository:
 <img src="https://www.imgbly.com/ib/dPfpDpHzFL.png"><br>
 + unzip it and open file<br>
-+ open main.cmd<br>
-+ after installation finish, close terminal<br>
-+ open main.py
++ open main.cmd
