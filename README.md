@@ -1,5 +1,5 @@
 # Password-Generator
-It's a password-generator and checker. It's my password managers first extension app.
+It's a password-generator and checker. It's my password managers first extension app. ( Extension apps are beta apps of password manager. They can be change in the future )
 ## Info
 I will share my password manager with all of this extension apps after finish it.
 
