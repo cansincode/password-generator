@@ -15,3 +15,18 @@ Middle-left button is check leaks and show passwords total leaked databases on t
 Middle-right button is generate strong passwords, length is changing on Slider at the top. Passwords automatically copied on your clipboard
 ## Password Entry
 Bottom entry is password input you can write your password for check leaks. Your generated passwords automatically entered here
+
+# Installation
+## Linux / MacOS
+$ git clone https://github.com/cansincode/password-generator
+$ cd password-generator
+$ pip3 install -r requirements
+$ python3 main.py
+## Windows
+Download repository
+<img src="https://github.com/cansincode/password-generator/blob/496d65f3dc57898b1f87a35cb4bf807853ff4b8b/Screenshots/Screenshot_2.png">
+<img src="https://github.com/cansincode/password-generator/blob/496d65f3dc57898b1f87a35cb4bf807853ff4b8b/Screenshots/Screenshot_3.png">
+unzip it and open file
+open main.cmd
+after installation finish, close terminal
+open main.py
