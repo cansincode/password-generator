@@ -25,6 +25,7 @@ $ python3 main.py
 ## Windows
 Download repository<br>
 <img src="https://github.com/cansincode/password-generator/blob/496d65f3dc57898b1f87a35cb4bf807853ff4b8b/Screenshots/Screenshot_2.png"><br>
+<br>
 <img src="https://github.com/cansincode/password-generator/blob/496d65f3dc57898b1f87a35cb4bf807853ff4b8b/Screenshots/Screenshot_3.png"><br>
 unzip it and open file<br>
 open main.cmd<br>
