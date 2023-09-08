@@ -18,15 +18,15 @@ Bottom entry is password input you can write your password for check leaks. Your
 
 # Installation
 ## Linux / MacOS
-$ git clone https://github.com/cansincode/password-generator
-$ cd password-generator
-$ pip3 install -r requirements
+$ git clone https://github.com/cansincode/password-generator<br>
+$ cd password-generator<br>
+$ pip3 install -r requirements<br>
 $ python3 main.py
 ## Windows
-Download repository
-<img src="https://github.com/cansincode/password-generator/blob/496d65f3dc57898b1f87a35cb4bf807853ff4b8b/Screenshots/Screenshot_2.png">
-<img src="https://github.com/cansincode/password-generator/blob/496d65f3dc57898b1f87a35cb4bf807853ff4b8b/Screenshots/Screenshot_3.png">
-unzip it and open file
-open main.cmd
-after installation finish, close terminal
+Download repository<br>
+<img src="https://github.com/cansincode/password-generator/blob/496d65f3dc57898b1f87a35cb4bf807853ff4b8b/Screenshots/Screenshot_2.png"><br>
+<img src="https://github.com/cansincode/password-generator/blob/496d65f3dc57898b1f87a35cb4bf807853ff4b8b/Screenshots/Screenshot_3.png"><br>
+unzip it and open file<br>
+open main.cmd<br>
+after installation finish, close terminal<br>
 open main.py
